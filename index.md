@@ -12,8 +12,8 @@ MFML은 대전대학교에서 시작한 Machine Learning 학습동아리로 현�
 
 [2주차](https://drive.google.com/file/d/12UwSoc_JocjBR-xm08T87JILwl6AGnQB/view?usp=sharing)
 
-[3주차](https://drive.google.com/file/d/1q-xRdC1yR9g4AoYffo0p_zay5FP2K0Op/view?usp=sharing)
+[3주차](https://drive.google.com/file/d/1VsTtoaeZNb30dXfwxJYykW3QyDVVeSO-/view?usp=sharing)
 
-[4주차](https://drive.google.com/file/d/1VsTtoaeZNb30dXfwxJYykW3QyDVVeSO-/view?usp=sharing)
+[4주차](https://drive.google.com/file/d/1q-xRdC1yR9g4AoYffo0p_zay5FP2K0Op/view?usp=sharing)
 
 [5주차](https://drive.google.com/file/d/1ESyZvI0chepd5BSSFU6d0dUQ_KNThH3e/view?usp=sharing)
