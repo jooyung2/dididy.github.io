@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## MFML
 
-You can use the [editor on GitHub](https://github.com/dididy/MFML/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+MFML은 대전대학교에서 시작한 Machine Learning 학습동아리로 현재 범위를 대전지역 전체로 확장하기위한 시도를 하고 있습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 활동 
 
-### Markdown
+2017년 12월 26일 대전대학교 MOOC학습동아리는 형태로 2018년 1월 28일까지 5주간 지원을 받았고 현재 NGO대전에 비영리 단체로 등록을 시도하고 있습니다. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 보고서 다운로드
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dididy/MFML/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[1주차](https://drive.google.com/file/d/12UwSoc_JocjBR-xm08T87JILwl6AGnQB/view?usp=sharing)
+[2주차](https://drive.google.com/file/d/1ESyZvI0chepd5BSSFU6d0dUQ_KNThH3e/view?usp=sharing)
+[3주차](https://drive.google.com/file/d/1q-xRdC1yR9g4AoYffo0p_zay5FP2K0Op/view?usp=sharing)
+[4주차](https://drive.google.com/file/d/1VsTtoaeZNb30dXfwxJYykW3QyDVVeSO-/view?usp=sharing)
+[5주차](https://drive.google.com/file/d/1goUXm0knQvGW-EcA2n9CQOwQIvRz8Ank/view?usp=sharing)
